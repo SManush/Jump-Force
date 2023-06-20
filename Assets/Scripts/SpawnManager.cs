@@ -5,7 +5,7 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject[] obstaclePrefab;
-    private float startDalay = 2;
+    private float startDalay = 3;
     private float spawnInterval = 3.0f;
     private PlayerController playerControllerScript;
     
